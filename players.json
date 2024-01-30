@@ -479,5 +479,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1674151595736_doss.png",
     "league": "LEC"
+  },
+  {
+    "id": "f00b605e-4fd4-4d56-9285-55a9e1d0ebe1",
+    "summonerName": "Wunder",
+    "firstName": "Martin",
+    "lastName": "Nordahl Hansen",
+    "birthDate": "1998-11-09T00:00:00.000Z",
+    "team": "Team Heretics",
+    "country": "DK",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674151086594_jankos.png",
+    "league": "LEC"
+  },
+  {
+    "id": "d276ac13-7f38-4c9c-a12c-7a2405d7f289",
+    "summonerName": "Jankos",
+    "firstName": "Marcin",
+    "lastName": "Jankowski",
+    "birthDate": "1995-07-23T00:00:00.000Z",
+    "team": "Team Heretics",
+    "country": "PL",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674151086594_jankos.png",
+    "league": "LEC"
+  },
+  {
+    "id": "601eb472-dc87-4006-8a5b-f0f7d3e7dd2c",
+    "summonerName": "Perkz",
+    "firstName": "Luka",
+    "lastName": "Perković",
+    "birthDate": "1998-09-30T00:00:00.000Z",
+    "team": "Team Heretics",
+    "country": "HR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/TH_Perkz_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "7d18aa12-abd5-48b6-969c-b854b8be9ea6",
+    "summonerName": "Flakked",
+    "firstName": "Victor ",
+    "lastName": "Lirola",
+    "birthDate": "2001-04-25T00:00:00.000Z",
+    "team": "Team Heretics",
+    "country": "ES",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1655318545135_flakked.png",
+    "league": "LEC"
+  },
+  {
+    "id": "06f8eaa3-7680-48e1-8295-bffd7e378424",
+    "summonerName": "Kaiser",
+    "firstName": "Norman",
+    "lastName": "Kaiser",
+    "birthDate": "1998-11-19T00:00:00.000Z",
+    "team": "Team Heretics",
+    "country": "DE",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/TH_Kaiser_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
