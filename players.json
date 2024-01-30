@@ -57,7 +57,7 @@
     "country": "SI",
     "teamUrl": "http://static.lolesports.com/teams/G2-FullonDark.png",
     "role": "support",
-    "imageUrl": "http://static.lolesports.com/players/1674150953827_mikyx.png",
+    "picture": "http://static.lolesports.com/players/1674150953827_mikyx.png",
     "league": "LEC"
   },
   {
@@ -249,7 +249,7 @@
     "team": "Karmine Corp",
     "country": "FR",
     "role": "top",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/KC_Cabochard_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/KC_Cabochard_2024_Split_1.png",
     "league": "LEC"
   },
   {
@@ -599,5 +599,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/VIT_Hylissang_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "102206337829139149",
+    "summonerName": "Fudge",
+    "firstName": "Ibrahim",
+    "lastName": "Allami",
+    "birthDate": "2002-05-23T00:00:00.000Z",
+    "team": "Cloud9",
+    "country": "AU",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674831464169_C9_FUDGE.png",
+    "league": "LCS"
+  },
+  {
+    "id": "99101098218071815",
+    "summonerName": "Blaber",
+    "firstName": "Robert",
+    "lastName": "Huang",
+    "birthDate": "2000-01-04T00:00:00.000Z",
+    "team": "Cloud9",
+    "country": "US",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674831359588_C9_BLABER.png",
+    "league": "LCS"
+  },
+  {
+    "id": "105504920899018806",
+    "summonerName": "jojopyun",
+    "firstName": "Joseph",
+    "lastName": "Joon Pyun",
+    "birthDate": "2004-10-01T00:00:00.000Z",
+    "team": "Cloud9",
+    "country": "CA",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674832457832_EG_JOJOPYUN.png",
+    "league": "LCS"
+  },
+  {
+    "id": "105388936922706146",
+    "summonerName": "Berserker",
+    "firstName": "Mincheol",
+    "lastName": "Kim",
+    "birthDate": "2003-05-25T00:00:00.000Z",
+    "team": "Cloud9",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674831335622_C9_BERSERKER.png",
+    "league": "LCS"
+  },
+  {
+    "id": "99101098208825497",
+    "summonerName": "Vulcan",
+    "firstName": "Philippe",
+    "lastName": "Laflamme",
+    "birthDate": "1999-04-20T00:00:00.000Z",
+    "team": "Cloud9",
+    "country": "CA",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/FLY_Vulcan_2023_Split_2.png",
+    "league": "LCS"
   }
 ]
