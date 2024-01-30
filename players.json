@@ -239,5 +239,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1687315706549_NRG_IGNAR.png",
     "league": "LEC"
+  },
+  {
+    "id": "9a1335fd-357c-4374-bf28-1a5a4847284b",
+    "summonerName": "Cabochard",
+    "firstName": "Lucas",
+    "lastName": "Simon-Meslet",
+    "birthDate": "1997-04-15T00:00:00.000Z",
+    "team": "Karmine Corp",
+    "country": "FR",
+    "role": "top",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/KC_Cabochard_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "17205ecf-1a77-4309-9e53-43f25896a73e",
+    "summonerName": "Bo",
+    "firstName": "Yang-Bo",
+    "lastName": "Zhou",
+    "birthDate": "2002-03-02T00:00:00.000Z",
+    "team": "Karmine Corp",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674151770447_bo.png",
+    "league": "LEC"
+  },
+  {
+    "id": "45fd44d1-3bb1-4948-b34d-fdc70dde9adb",
+    "summonerName": "Saken",
+    "firstName": "Lucas",
+    "lastName": "Fayard",
+    "birthDate": "1998-11-05T00:00:00.000Z",
+    "team": "Karmine Corp",
+    "country": "FR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/79/KC_SAKEN_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "f4a9b541-479d-4036-8b73-919eb532835d",
+    "summonerName": "Upset",
+    "firstName": "Elias",
+    "lastName": "Lipp",
+    "birthDate": "1999-12-16T00:00:00.000Z",
+    "team": "Karmine Corp",
+    "country": "DE",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1678984415453_upset.png",
+    "league": "LEC"
+  },
+  {
+    "id": "fe97536b-295e-4135-8d00-5ec183c3d4c9",
+    "summonerName": "Targamas",
+    "firstName": "Raphaël",
+    "lastName": "Crabbé",
+    "birthDate": "2000-06-30T00:00:00.000Z",
+    "team": "Karmine Corp",
+    "country": "BE",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/KC_Targamas_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
