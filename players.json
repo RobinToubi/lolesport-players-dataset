@@ -59,5 +59,65 @@
     "role": "support",
     "imageUrl": "http://static.lolesports.com/players/1674150953827_mikyx.png",
     "league": "LEC"
+  },
+  {
+    "id": "7d53e48d-35ce-45d1-b692-c55e9bbb0269",
+    "summonerName": "Adam",
+    "firstName": "Adam",
+    "lastName": "Maanane",
+    "birthDate": "2001-12-30T00:00:00.000Z",
+    "team": "Team BDS",
+    "country": "FR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674150345616_adam.png",
+    "league": "LEC"
+  },
+  {
+    "id": "9334a55f-fc0b-4f9f-9903-2da6610964ae",
+    "summonerName": "Sheo",
+    "firstName": "Théo",
+    "lastName": "Borile",
+    "birthDate": "2001-07-05T00:00:00.000Z",
+    "team": "Team BDS",
+    "country": "FR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674150549313_sheo.png",
+    "league": "LEC"
+  },
+  {
+    "id": "d3537485-63ee-46f7-96ff-bb2d069048e1",
+    "summonerName": "nuc",
+    "firstName": "Ilias",
+    "lastName": "Bizriken",
+    "birthDate": "2002-10-17T00:00:00.000Z",
+    "team": "Team BDS",
+    "country": "FR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674150524728_nuc.png",
+    "league": "LEC"
+  },
+  {
+    "id": "17167e11-25b8-443e-ba70-a160dcca7c76",
+    "summonerName": "Ice",
+    "firstName": "Yoon",
+    "lastName": "Sang-hoon",
+    "birthDate": "2001-04-09T00:00:00.000Z",
+    "team": "Team BDS",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/BDS_Ice_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "920241bb-6782-401e-8cc2-1b79a00f5b2b",
+    "summonerName": "Labrov",
+    "firstName": "Labros",
+    "lastName": "Papoutsakis",
+    "birthDate": "2002-02-12T00:00:00.000Z",
+    "team": "Team BDS",
+    "country": "GR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674150495676_labrov.png",
+    "league": "LEC"
   }
 ]
