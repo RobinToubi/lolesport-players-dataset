@@ -359,5 +359,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/MDK_Alvaro_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "78bb3a74-1b5a-464e-bbe4-ed96631f973f",
+    "summonerName": "Szygenda",
+    "firstName": "Mathias ",
+    "lastName": "Jensen",
+    "birthDate": "2001-04-14T00:00:00.000Z",
+    "team": "Rogue",
+    "country": "DK",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674151326256_szygenda.png",
+    "league": "LEC"
+  },
+  {
+    "id": "1cadf7bb-911c-446e-833a-3aa20ea2e4a0",
+    "summonerName": "Markoon",
+    "firstName": "Mark",
+    "lastName": "van Woensel",
+    "birthDate": "2002-06-28T00:00:00.000Z",
+    "team": "Rogue",
+    "country": "NL",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/RGE_Markoon_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "befdb6e0-aa15-4c4e-b60c-a20a1aa41e14",
+    "summonerName": "Larssen",
+    "firstName": "Emil",
+    "lastName": "Larsson",
+    "birthDate": "2000-03-30T00:00:00.000Z",
+    "team": "Rogue",
+    "country": "SE",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674151262186_larssen.png",
+    "league": "LEC"
+  },
+  {
+    "id": "4bd2070f-aaa9-427c-b69c-c36886c39ac6",
+    "summonerName": "Comp",
+    "firstName": "Markos",
+    "lastName": "Stamkopoulos",
+    "birthDate": "2001-12-20T00:00:00.000Z",
+    "team": "Rogue",
+    "country": "GR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674151224922_comp.png",
+    "league": "LEC"
+  },
+  {
+    "id": "8a262b46-ca50-425e-8cb2-a69b1085ba81",
+    "summonerName": "Zoelys",
+    "firstName": "Théo",
+    "lastName": "Le Scornec",
+    "birthDate": "2003-05-16T00:00:00.000Z",
+    "team": "Rogue",
+    "country": "GR",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/RGE_Zoelys_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
