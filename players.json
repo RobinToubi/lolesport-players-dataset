@@ -1,0 +1,63 @@
+[
+  {
+    "id": "194e24e4-68cb-4676-9953-79e4ae711327",
+    "summonerName": "BrokenBlade",
+    "firstName": "Sergen",
+    "lastName": "Çelik",
+    "birthDate": "2000-01-19T00:00:00.000Z",
+    "team": "G2 Esports",
+    "country": "DE",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674150879110_brokenblade.png",
+    "league": "LEC"
+  },
+  {
+    "id": "7bc51ff5-bdab-4f8b-9961-f4f6ab6ae153",
+    "summonerName": "Yike",
+    "firstName": "Martin",
+    "lastName": "Sundelin",
+    "birthDate": "2000-11-11T00:00:00.000Z",
+    "team": "G2 Esports",
+    "country": "SE",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674150977948_yike.png",
+    "league": "LEC"
+  },
+  {
+    "id": "2a9a4913-8dd7-4363-98e6-11a5b610488d",
+    "summonerName": "Caps",
+    "firstName": "Rasmus",
+    "lastName": "Borregaard Winther",
+    "birthDate": "1999-11-17T00:00:00.000Z",
+    "team": "G2 Esports",
+    "country": "DK",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674150905376_caps.png",
+    "league": "LEC"
+  },
+  {
+    "id": "21e12547-d9f2-405e-9747-09d5bee5b052",
+    "summonerName": "Hans Sama",
+    "firstName": "Steven",
+    "lastName": "Liv",
+    "birthDate": "1999-09-02T00:00:00.000Z",
+    "team": "G2 Esports",
+    "country": "FR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674150930461_hans-sama.png",
+    "league": "LEC"
+  },
+  {
+    "id": "6a721549-702a-40f5-8802-46f331e409fd",
+    "summonerName": "Mikyx",
+    "firstName": "Mihael",
+    "lastName": "Mehle",
+    "birthDate": "1998-11-02T00:00:00.000Z",
+    "team": "G2 Esports",
+    "country": "SI",
+    "teamUrl": "http://static.lolesports.com/teams/G2-FullonDark.png",
+    "role": "support",
+    "imageUrl": "http://static.lolesports.com/players/1674150953827_mikyx.png",
+    "league": "LEC"
+  }
+]
