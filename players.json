@@ -299,5 +299,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/KC_Targamas_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "8eb1c804-4dd1-4119-a77f-fde94874b50f",
+    "summonerName": "Myrwn",
+    "firstName": "Alex",
+    "lastName": "Pastor Villarejo",
+    "birthDate": "2003-06-13T00:00:00.000Z",
+    "team": "MAD Lions",
+    "country": "ES",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0c/MDK_Myrwn_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "0fea5123-3a21-4b58-ba80-c0d731d483b0",
+    "summonerName": "Elyoya",
+    "firstName": "Javier ",
+    "lastName": "Prades",
+    "birthDate": "2000-03-13T00:00:00.000Z",
+    "team": "MAD Lions",
+    "country": "ES",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674151470440_elyoya.png",
+    "league": "LEC"
+  },
+  {
+    "id": "8338572f-e174-4106-93e2-5d3e750bbeb6",
+    "summonerName": "Fresskowy",
+    "firstName": "Bartłomiej ",
+    "lastName": "Przewoźnik",
+    "birthDate": "1999-11-26T00:00:00.000Z",
+    "team": "MAD Lions",
+    "country": "PL",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/MDK_Fresskowy_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "5fef9936-64e5-4174-a55d-1aff09b2fb9d",
+    "summonerName": "Supa",
+    "firstName": "David ",
+    "lastName": "Martínez García",
+    "birthDate": "2000-10-23T00:00:00.000Z",
+    "team": "MAD Lions",
+    "country": "ES",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/MDK_Supa_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "a736951d-dc7f-4cc7-976e-6e05d6f4ff22",
+    "summonerName": "Alvaro",
+    "firstName": "Álvaro ",
+    "lastName": "Fernández del Amo",
+    "birthDate": "2000-10-23T00:00:00.000Z",
+    "team": "MAD Lions",
+    "country": "ES",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/MDK_Alvaro_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
