@@ -419,5 +419,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/81/RGE_Zoelys_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "47946afc-0b3f-48a5-9cd7-a01861991313",
+    "summonerName": "Irrelevant",
+    "firstName": "Joel",
+    "lastName": "Miro Scharoll",
+    "birthDate": "2001-10-22T00:00:00.000Z",
+    "team": "SK Gaming",
+    "country": "DE",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674151647043_irrelevant.png",
+    "league": "LEC"
+  },
+  {
+    "id": "88eab199-cbd4-48a3-a626-855b184d4c6d",
+    "summonerName": "ISMA",
+    "firstName": "Ismaïl",
+    "lastName": "Boualem",
+    "birthDate": "TBD",
+    "team": "SK Gaming",
+    "country": "FR",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/SK_ISMA_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "6f37862f-94a3-4a85-b9fc-a874be113727",
+    "summonerName": "Nisqy",
+    "firstName": "Yasin",
+    "lastName": "Dincer",
+    "birthDate": "1998-07-28T00:00:00.000Z",
+    "team": "SK Gaming",
+    "country": "BE",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/SK_Nisqy_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "da4c7237-bfda-410c-8fba-b6f7cc5c8d6c",
+    "summonerName": "Exakick",
+    "firstName": "Thomas",
+    "lastName": "Foucou",
+    "birthDate": "2003-09-28T00:00:00.000Z",
+    "team": "SK Gaming",
+    "country": "FR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674151618320_exakick.png",
+    "league": "LEC"
+  },
+  {
+    "id": "4055556e-1949-41f5-a79f-342ed791d300",
+    "summonerName": "Doss",
+    "firstName": "Mads",
+    "lastName": "Jensen",
+    "birthDate": "1999-03-19T00:00:00.000Z",
+    "team": "SK Gaming",
+    "country": "DK",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674151595736_doss.png",
+    "league": "LEC"
   }
 ]
