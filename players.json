@@ -179,5 +179,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/FNC_Jun_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "8906610e-acac-4fa6-9002-548fc8066fe2",
+    "summonerName": "Odoamne",
+    "firstName": "Andrei",
+    "lastName": "Pascu",
+    "birthDate": "1995-01-18T00:00:00.000Z",
+    "team": "GIANTX",
+    "country": "RO",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674151947602_odoamne.png",
+    "league": "LEC"
+  },
+  {
+    "id": "e940bdd4-ef16-4f5a-b82b-808ddce96971",
+    "summonerName": "Peach",
+    "firstName": "Mingyu",
+    "lastName": "Lee",
+    "birthDate": "2000-03-28T00:00:00.000Z",
+    "team": "GIANTX",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674833429446_USE_Peach.png",
+    "league": "LEC"
+  },
+  {
+    "id": "d399f1da-50c5-4e8f-8d71-c92b54cd4e69",
+    "summonerName": "Jackies",
+    "firstName": "Adam",
+    "lastName": "Jeřábek",
+    "birthDate": "2004-10-06T00:00:00.000Z",
+    "team": "GIANTX",
+    "country": "CZ",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/GX_Jackies_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "77b5e734-8ae0-4688-8e02-1b5a57bff06e",
+    "summonerName": "Patrik",
+    "firstName": "Patrik",
+    "lastName": "Jiru",
+    "birthDate": "2000-04-07T00:00:00.000Z",
+    "team": "GIANTX",
+    "country": "CZ",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674151974222_patrik.png",
+    "league": "LEC"
+  },
+  {
+    "id": "42641634-0581-4d71-a21e-5a2ab113be3e",
+    "summonerName": "IgNar",
+    "firstName": "Donggeun",
+    "lastName": "Lee",
+    "birthDate": "1996-11-20T00:00:00.000Z",
+    "team": "GIANTX",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1687315706549_NRG_IGNAR.png",
+    "league": "LEC"
   }
 ]
