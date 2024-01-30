@@ -539,5 +539,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/TH_Kaiser_2024_Split_1.png",
     "league": "LEC"
+  },
+  {
+    "id": "35ac7d39-9b60-4518-a94c-d256f3527fb2",
+    "summonerName": "Photon",
+    "firstName": "Gyutae",
+    "lastName": "Kyung",
+    "birthDate": "2001-11-30T00:00:00.000Z",
+    "team": "Team Vitality",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674151879010_photon.png",
+    "league": "LEC"
+  },
+  {
+    "id": "d125957f-ceb3-4cab-a2b1-f2447e07b4f3",
+    "summonerName": "Daglas",
+    "firstName": "Kacper",
+    "lastName": "Dagiel",
+    "birthDate": "2001-11-30T00:00:00.000Z",
+    "team": "Team Vitality",
+    "country": "PL",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fd/VIT_Daglas_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "41af2ca7-cd9d-4bb4-aaff-aaf9f8c3ee69",
+    "summonerName": "Vetheo",
+    "firstName": "Vincent ",
+    "lastName": "Berrié",
+    "birthDate": "2002-07-26T00:00:00.000Z",
+    "team": "Team Vitality",
+    "country": "FR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/ba/VIT_Vetheo_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "3f9a70d0-4aeb-4635-ad9e-073bb8010892",
+    "summonerName": "Carzzy",
+    "firstName": "Matyáš",
+    "lastName": "Orság",
+    "birthDate": "2002-01-31T00:00:00.000Z",
+    "team": "Team Vitality",
+    "country": "CZ",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/VIT_Carzzy_2024_Split_1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "27a5aa27-7274-46cd-983a-c702bb8877da",
+    "summonerName": "Hylissang",
+    "firstName": "Zdravets",
+    "lastName": "Iliev Galabov",
+    "birthDate": "1995-04-30T00:00:00.000Z",
+    "team": "Team Vitality",
+    "country": "BG",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/VIT_Hylissang_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
