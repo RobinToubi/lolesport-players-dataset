@@ -119,5 +119,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1674150495676_labrov.png",
     "league": "LEC"
+  },
+  {
+    "id": "2b94d2e5-9fcb-46e3-887d-89121ee5d2d5",
+    "summonerName": "Oscarinin",
+    "firstName": "Oscar",
+    "lastName": "Muñoz Jiménez",
+    "birthDate": "2003-06-11T00:00:00.000Z",
+    "team": "Fnatic",
+    "country": "ES",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1678984558084_oscarinin1.png",
+    "league": "LEC"
+  },
+  {
+    "id": "f5ec1b03-84c1-4cdf-8139-fe7e45ebc98f",
+    "summonerName": "Razork",
+    "firstName": "Iván",
+    "lastName": "Martín",
+    "birthDate": "2000-10-07T00:00:00.000Z",
+    "team": "Fnatic",
+    "country": "ES",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674150729483_razork.png",
+    "league": "LEC"
+  },
+  {
+    "id": "40e33b20-ddc3-47b1-b6a2-052c33699a5c",
+    "summonerName": "Humanoid",
+    "firstName": " Marek",
+    "lastName": "Brázda",
+    "birthDate": "2000-03-14T00:00:00.000Z",
+    "team": "Fnatic",
+    "country": "CZ",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674150706185_humanoid.png",
+    "league": "LEC"
+  },
+  {
+    "id": "42641634-0581-4d71-a21e-5a2ab113be3e",
+    "summonerName": "Noah",
+    "firstName": "Hyuntaek",
+    "lastName": "O",
+    "birthDate": "2001-10-04T00:00:00.000Z",
+    "team": "Fnatic",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LEC"
+  },
+  {
+    "id": "e90c2137-5e03-4777-ba55-534220c5a806",
+    "summonerName": "Jun",
+    "firstName": "Se-jun",
+    "lastName": "Yoon",
+    "birthDate": "2000-08-02T00:00:00.000Z",
+    "team": "Fnatic",
+    "country": "KR",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/FNC_Jun_2024_Split_1.png",
+    "league": "LEC"
   }
 ]
