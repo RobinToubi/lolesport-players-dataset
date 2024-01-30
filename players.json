@@ -601,7 +601,7 @@
     "league": "LEC"
   },
   {
-    "id": "102206337829139149",
+    "id": "d9e44ab2-621d-41dd-adb1-03b93fcd69fb",
     "summonerName": "Fudge",
     "firstName": "Ibrahim",
     "lastName": "Allami",
@@ -613,7 +613,7 @@
     "league": "LCS"
   },
   {
-    "id": "99101098218071815",
+    "id": "9a40db3b-7526-4911-9400-22009ebfd3de",
     "summonerName": "Blaber",
     "firstName": "Robert",
     "lastName": "Huang",
@@ -625,7 +625,7 @@
     "league": "LCS"
   },
   {
-    "id": "105504920899018806",
+    "id": "2f8fa697-50ab-4698-9f21-44668c62aa10",
     "summonerName": "jojopyun",
     "firstName": "Joseph",
     "lastName": "Joon Pyun",
@@ -637,7 +637,7 @@
     "league": "LCS"
   },
   {
-    "id": "105388936922706146",
+    "id": "9bddae2b-a0e2-4988-881c-0aa7114964a7",
     "summonerName": "Berserker",
     "firstName": "Mincheol",
     "lastName": "Kim",
@@ -649,7 +649,7 @@
     "league": "LCS"
   },
   {
-    "id": "99101098208825497",
+    "id": "f3ee0837-5afc-48f8-b455-38153c5621f3",
     "summonerName": "Vulcan",
     "firstName": "Philippe",
     "lastName": "Laflamme",
@@ -658,6 +658,66 @@
     "country": "CA",
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/FLY_Vulcan_2023_Split_2.png",
+    "league": "LCS"
+  },
+  {
+    "id": "cee81c90-c446-4699-8a0d-8eacae8124e2",
+    "summonerName": "Sniper",
+    "firstName": "Rayan",
+    "lastName": "Shoura",
+    "birthDate": "2006-11-10T00:00:00.000Z",
+    "team": "100 Thieves",
+    "country": "CA",
+    "role": "top",
+    "imageUrl": "http://static.lolesports.com/players/1674831091982_100_SNIPER.png",
+    "league": "LCS"
+  },
+  {
+    "id": "56b3f83a-124e-4f63-8a51-ac9c286ba36b",
+    "summonerName": "River",
+    "firstName": "Dong-woo",
+    "lastName": "Kim",
+    "birthDate": "1999-07-23T00:00:00.000Z",
+    "team": "100 Thieves",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674833544815_GG_RIVER.png",
+    "league": "LCS"
+  },
+  {
+    "id": "d48262f6-82c4-4edf-913d-31c19c9ce750",
+    "summonerName": "Quid",
+    "firstName": "HYEONSEUNG",
+    "lastName": "Lim",
+    "birthDate": "2004-04-27T00:00:00.000Z",
+    "team": "100 Thieves",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686472021207_CL_GEN_Quid.png",
+    "league": "LCS"
+  },
+  {
+    "id": "645b1cab-8263-48a5-b451-a4f47362b068",
+    "summonerName": "Meech",
+    "firstName": "Brandon",
+    "lastName": "Choi",
+    "birthDate": "2001-09-19T00:00:00.000Z",
+    "team": "100 Thieves",
+    "country": "CA",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/CLGC_Meech_2023_Split_1.png",
+    "league": "LCS"
+  },
+  {
+    "id": "33f68857-5b5d-4185-88d0-ffd638ef9ccf",
+    "summonerName": "Eyla",
+    "firstName": "Bill",
+    "lastName": "Nguyen",
+    "birthDate": "1999-08-24T00:00:00.000Z",
+    "team": "100 Thieves",
+    "country": "AU",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/EG_Eyla_2023_Split_2.png",
     "league": "LCS"
   }
 ]
