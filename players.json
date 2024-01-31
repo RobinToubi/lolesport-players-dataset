@@ -2712,7 +2712,7 @@
     "team": "WeiboGaming FAW AUDI",
     "country": "CN",
     "role": "top",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/WBG_Zdz_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/WBG_Zdz_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -2724,7 +2724,7 @@
     "team": "WeiboGaming FAW AUDI",
     "country": "CN",
     "role": "jungle",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/WBG_Xiaohao_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/WBG_Xiaohao_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -2736,7 +2736,7 @@
     "team": "WeiboGaming FAW AUDI",
     "country": "CN",
     "role": "mid",
-    "imageUrl": "http://static.lolesports.com/players/1593132521590_rng-xiaohu-web.png",
+    "picture": "http://static.lolesports.com/players/1593132521590_rng-xiaohu-web.png",
     "league": "LPL"
   },
   {
@@ -2748,7 +2748,7 @@
     "team": "WeiboGaming FAW AUDI",
     "country": "CN",
     "role": "bottom",
-    "imageUrl": "http://static.lolesports.com/players/1593130914728_lng-light-web.png",
+    "picture": "http://static.lolesports.com/players/1593130914728_lng-light-web.png",
     "league": "LPL"
   },
   {
@@ -2760,7 +2760,7 @@
     "team": "WeiboGaming FAW AUDI",
     "country": "CN",
     "role": "support",
-    "imageUrl": "http://static.lolesports.com/players/1632953961119_fpx-crisp-w21.png",
+    "picture": "http://static.lolesports.com/players/1632953961119_fpx-crisp-w21.png",
     "league": "LPL"
   }
 ]
