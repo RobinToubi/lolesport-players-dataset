@@ -1823,7 +1823,7 @@
     "team": "SHANGHAI EDWARD GAMING HYCAN",
     "country": "CN",
     "role": "top",
-    "imageUrl": "http://static.lolesports.com/players/silhouette.png",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
     "league": "LPL"
   },
   {
@@ -1835,7 +1835,7 @@
     "team": "SHANGHAI EDWARD GAMING HYCAN",
     "country": "CN",
     "role": "jungle",
-    "imageUrl": "http://static.lolesports.com/players/1632953262507_edg-jiejie-w21.png",
+    "picture": "http://static.lolesports.com/players/1632953262507_edg-jiejie-w21.png",
     "league": "LPL"
   },
   {
@@ -1847,7 +1847,7 @@
     "team": "SHANGHAI EDWARD GAMING HYCAN",
     "country": "KR",
     "role": "mid",
-    "imageUrl": "https://static.lolesports.com/players/download.png",
+    "picture": "https://static.lolesports.com/players/download.png",
     "league": "LPL"
   },
   {
@@ -1859,7 +1859,7 @@
     "team": "SHANGHAI EDWARD GAMING HYCAN",
     "country": "CN",
     "role": "bottom",
-    "imageUrl": "http://static.lolesports.com/players/1675176150156_placeholder.png",
+    "picture": "http://static.lolesports.com/players/1675176150156_placeholder.png",
     "league": "LPL"
   },
   {
@@ -1871,7 +1871,7 @@
     "team": "SHANGHAI EDWARD GAMING HYCAN",
     "country": "CN",
     "role": "support",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/EDG_Vampire_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/EDG_Vampire_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -1883,7 +1883,7 @@
     "team": "FunPlus Phoenix",
     "country": "CN",
     "role": "top",
-    "imageUrl": "http://static.lolesports.com/players/1632954048957_fpx-xiaolauhu-w21.png",
+    "picture": "http://static.lolesports.com/players/1632954048957_fpx-xiaolauhu-w21.png",
     "league": "LPL"
   },
   {
@@ -1895,7 +1895,7 @@
     "team": "FunPlus Phoenix",
     "country": "CN",
     "role": "jungle",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/FPX_milkyway_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/FPX_milkyway_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -1907,7 +1907,7 @@
     "team": "FunPlus Phoenix",
     "country": "CN",
     "role": "mid",
-    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
     "league": "LPL"
   },
   {
@@ -1919,7 +1919,7 @@
     "team": "FunPlus Phoenix",
     "country": "KR",
     "role": "bottom",
-    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
     "league": "LPL"
   },
   {
@@ -1931,7 +1931,79 @@
     "team": "FunPlus Phoenix",
     "country": "KR",
     "role": "support",
-    "imageUrl": "http://static.lolesports.com/players/1686474649583_HLE_Life.png",
+    "picture": "http://static.lolesports.com/players/1686474649583_HLE_Life.png",
     "league": "LCK"
+  },
+  {
+    "id": "108547753406304556",
+    "summonerName": "YSKM",
+    "firstName": "Chau",
+    "lastName": "Shu Tak",
+    "birthDate": "2004-02-11T00:00:00.000Z",
+    "team": "Invictus Gaming",
+    "country": "HK",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1656574350705_YSKM.png",
+    "league": "LPL"
+  },
+  {
+    "id": "b772053c-403c-4299-a9ca-c2b1cb6948cd",
+    "summonerName": "Wen",
+    "firstName": "Liao",
+    "lastName": "Wen-Wei",
+    "birthDate": "TBD",
+    "team": "Invictus Gaming",
+    "country": "CN",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/IG_Wen_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "2a1c2955-eca1-4082-ab1a-ede2cb131a85",
+    "summonerName": "Tianzhen",
+    "firstName": "QIFAN",
+    "lastName": "GUO",
+    "birthDate": "2004-09-13T00:00:00.000Z",
+    "team": "Invictus Gaming",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/IG_Tianzhen_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "eb6477f2-ebc2-403c-9e35-7461f8484021",
+    "summonerName": "Cryin ",
+    "firstName": "Cheng-Wei",
+    "lastName": "Yuan",
+    "birthDate": "2000-11-05T00:00:00.000Z",
+    "team": "Invictus Gaming",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593132504162_rng-cryin-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "c0e938d1-cebf-4088-8a0a-1b3c1faad3bb",
+    "summonerName": "Ahn",
+    "firstName": "SHANYE",
+    "lastName": "AN",
+    "birthDate": "2001-03-15T00:00:00.000Z",
+    "team": "Invictus Gaming",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/IG_Ahn_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "6eed6809-1c36-4227-83d7-4f8f2db837be",
+    "summonerName": "Wink",
+    "firstName": " RUI",
+    "lastName": "ZHANG",
+    "birthDate": "1999-11-02T00:00:00.000Z",
+    "team": "Invictus Gaming",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "league": "LPL"
   }
 ]
