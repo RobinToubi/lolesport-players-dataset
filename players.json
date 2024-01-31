@@ -2005,5 +2005,77 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
     "league": "LPL"
+  },
+  {
+    "id": "8301c5ef-72b0-44a2-aa19-5cd85f2b62d5",
+    "summonerName": "Flandre",
+    "firstName": "Li",
+    "lastName": "Xuan-Jun",
+    "birthDate": "1998-08-28T00:00:00.000Z",
+    "team": "Beijing JDG Intel Esports Club",
+    "country": "CN",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/JDG_Flandre_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "79f7a4b1-2a16-4871-9a6c-66cde763694f",
+    "summonerName": "sheer",
+    "firstName": "Xu",
+    "lastName": "Wen-Jie",
+    "birthDate": "2005-12-06T00:00:00.000Z",
+    "team": "Beijing JDG Intel Esports Club",
+    "country": "CN",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1c/JDG_sheer_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "3cb27a9c-3d88-42cd-bd3e-752f15923fe8",
+    "summonerName": "Kanavi",
+    "firstName": "Jinhhyeok",
+    "lastName": "Seo",
+    "birthDate": "2000-11-02T00:00:00.000Z",
+    "team": "Beijing JDG Intel Esports Club",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1593130556324_jdg-kanavi-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "5b19b16a-5a2e-4eaf-b203-087c07c74850",
+    "summonerName": "Yagao",
+    "firstName": "Qi ",
+    "lastName": "Zeng",
+    "birthDate": "1998-10-19T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593130572191_jdg-yagao-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "f7cf8bd7-8ce5-4141-96bb-6e3df1a57084",
+    "summonerName": "Ruler",
+    "firstName": "Jaehyeok",
+    "lastName": "Park",
+    "birthDate": "1998-12-29T00:00:00.000Z",
+    "team": "Beijing JDG Intel Esports Club",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1655455423680_GEN_Ruler_784x621.png",
+    "league": "LPL"
+  },
+  {
+    "id": "ae0b736e-a1e7-4f3a-8e1c-f45396a746a2",
+    "summonerName": "MISSING",
+    "firstName": "Yunfeng ",
+    "lastName": "Lou",
+    "birthDate": "2001-05-26T00:00:00.000Z",
+    "team": "Beijing JDG Intel Esports Club",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1593136264187_we-missing-web.png",
+    "league": "LPL"
   }
 ]
