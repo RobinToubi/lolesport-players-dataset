@@ -840,4 +840,64 @@
     "picture": "http://static.lolesports.com/players/1674830940464_100_BUSIO.png",
     "league": "LCS"
   },
+  {
+    "id": "101383793877071109",
+    "summonerName": "Castle",
+    "firstName": "Cho",
+    "lastName": "Hyeon-seong",
+    "birthDate": "2002-10-08T00:00:00.000Z",
+    "team": "Immortals",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "league": "LCS"
+  },
+  {
+    "id": "101383793877071109",
+    "summonerName": "Armao",
+    "firstName": "Jonathan",
+    "lastName": "Armao",
+    "birthDate": "1998-09-09T00:00:00.000Z",
+    "team": "Immortals",
+    "country": "US",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/EG_Armao_2023_Split_2.png",
+    "league": "LCS"
+  },
+  {
+    "id": "101383793877071109",
+    "summonerName": "Mask",
+    "firstName": "Lee",
+    "lastName": "Sang-hun",
+    "birthDate": "2000-11-20T00:00:00.000Z",
+    "team": "Immortals",
+    "country": "KR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fd/USE_Mask_2023_Split_1.png",
+    "league": "LCS"
+  },
+  {
+    "id": "101383793877071109",
+    "summonerName": "Tactical",
+    "firstName": "Edward",
+    "lastName": "Ra",
+    "birthDate": "2000-08-18T00:00:00.000Z",
+    "team": "Immortals",
+    "country": "US",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "league": "LCS"
+  },
+  {
+    "id": "101383793877071109",
+    "summonerName": "Olleh",
+    "firstName": "Kim",
+    "lastName": "Joo-sung",
+    "birthDate": "1994-11-27T00:00:00.000Z",
+    "team": "Immortals",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "league": "LCS"
+  }
 ]
