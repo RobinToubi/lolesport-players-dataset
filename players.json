@@ -1572,5 +1572,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686475735492_NS_Peter.png",
     "league": "LCK"
+  },
+  {
+    "id": "80d546b6-253a-479b-ad3f-f7fb928dd2a9",
+    "summonerName": "Morgan",
+    "firstName": "Kitae",
+    "lastName": "Park",
+    "birthDate": "2001-09-26T00:00:00.000Z",
+    "team": "OKSavingsBank BRION",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686474068622_BRO_Morgan.png",
+    "league": "LCK"
+  },
+  {
+    "id": "83f58893-43eb-4e9b-979a-e403e8fc7cec",
+    "summonerName": "GIDEON",
+    "firstName": "Kim",
+    "lastName": "Min-seong",
+    "birthDate": "2003-08-14T00:00:00.000Z",
+    "team": "OKSavingsBank BRION",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/IG_gideon_2023_Split_1.png",
+    "league": "LCK"
+  },
+  {
+    "id": "d14d1d07-6212-4cda-81b8-addd65620f35",
+    "summonerName": "Karis",
+    "firstName": "Hongjo",
+    "lastName": "Kim",
+    "birthDate": "2003-05-21T00:00:00.000Z",
+    "team": "OKSavingsBank BRION",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686474053463_BRO_Karis.png",
+    "league": "LCK"
+  },
+  {
+    "id": "95ce0ea2-dbc3-437a-bdb4-b3d27c21d6e1",
+    "summonerName": "Envyy",
+    "firstName": "Myeongjun",
+    "lastName": "Lee",
+    "birthDate": "2000-04-07T00:00:00.000Z",
+    "team": "OKSavingsBank BRION",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1655457071121_LSB_Envyy_784x621.png",
+    "league": "LCK"
+  },
+  {
+    "id": "575eac18-8885-463d-a1c8-3675aa384f1d",
+    "summonerName": "Effort",
+    "firstName": "Sangho",
+    "lastName": "Lee",
+    "birthDate": "2000-11-23T00:00:00.000Z",
+    "team": "OKSavingsBank BRION",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686474015023_BRO_Effort.png",
+    "league": "LCK"
   }
 ]
