@@ -2702,5 +2702,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/df/UP_Jwei_2024_Split_1.png",
     "league": "LPL"
+  },
+  {
+    "id": "1df8749e-9e00-4c99-9964-436b8b4f3e37",
+    "summonerName": "Zdz",
+    "firstName": "Zhu",
+    "lastName": "De-Zhang",
+    "birthDate": "2001-12-03T00:00:00.000Z",
+    "team": "WeiboGaming FAW AUDI",
+    "country": "CN",
+    "role": "top",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/WBG_Zdz_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "d7d9bbb7-d4af-456a-a7ed-cc0e1df0c76a",
+    "summonerName": "Xiaohao",
+    "firstName": "HAO",
+    "lastName": "PENG",
+    "birthDate": "2002-07-19T00:00:00.000Z",
+    "team": "WeiboGaming FAW AUDI",
+    "country": "CN",
+    "role": "jungle",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/WBG_Xiaohao_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "b94dd6b8-fe1f-4f2d-aa74-c58028fe96b9",
+    "summonerName": "Xiaohu",
+    "firstName": "Yuanhao",
+    "lastName": "Li",
+    "birthDate": "1998-01-28T00:00:00.000Z",
+    "team": "WeiboGaming FAW AUDI",
+    "country": "CN",
+    "role": "mid",
+    "imageUrl": "http://static.lolesports.com/players/1593132521590_rng-xiaohu-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "b8073ae5-dfba-4a33-bc29-5f28c101cffb",
+    "summonerName": "Light",
+    "firstName": "Guang-Yu",
+    "lastName": "Wang",
+    "birthDate": "2001-02-21T00:00:00.000Z",
+    "team": "WeiboGaming FAW AUDI",
+    "country": "CN",
+    "role": "bottom",
+    "imageUrl": "http://static.lolesports.com/players/1593130914728_lng-light-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "f0f3a82b-176b-465b-aecb-da9dba2556cd",
+    "summonerName": "Crisp",
+    "firstName": "Qingsong",
+    "lastName": "Liu",
+    "birthDate": "1998-08-20T00:00:00.000Z",
+    "team": "WeiboGaming FAW AUDI",
+    "country": "CN",
+    "role": "support",
+    "imageUrl": "http://static.lolesports.com/players/1632953961119_fpx-crisp-w21.png",
+    "league": "LPL"
   }
 ]
