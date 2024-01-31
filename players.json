@@ -669,7 +669,7 @@
     "team": "100 Thieves",
     "country": "CA",
     "role": "top",
-    "imageUrl": "http://static.lolesports.com/players/1674831091982_100_SNIPER.png",
+    "picture": "http://static.lolesports.com/players/1674831091982_100_SNIPER.png",
     "league": "LCS"
   },
   {
@@ -841,7 +841,7 @@
     "league": "LCS"
   },
   {
-    "id": "101383793877071109",
+    "id": "e96c8983-7582-42d1-9eaa-bc7d5ec6e183",
     "summonerName": "Castle",
     "firstName": "Cho",
     "lastName": "Hyeon-seong",
@@ -853,7 +853,7 @@
     "league": "LCS"
   },
   {
-    "id": "101383793877071109",
+    "id": "32f5fc9b-e813-4248-9884-439f7fcf5368",
     "summonerName": "Armao",
     "firstName": "Jonathan",
     "lastName": "Armao",
@@ -865,7 +865,7 @@
     "league": "LCS"
   },
   {
-    "id": "101383793877071109",
+    "id": "a729c11c-b9ca-4665-a209-78a8dc5d7727",
     "summonerName": "Mask",
     "firstName": "Lee",
     "lastName": "Sang-hun",
@@ -877,7 +877,7 @@
     "league": "LCS"
   },
   {
-    "id": "101383793877071109",
+    "id": "2270f2e2-9b62-48f9-a39d-d8ea6d2cc525",
     "summonerName": "Tactical",
     "firstName": "Edward",
     "lastName": "Ra",
@@ -889,7 +889,7 @@
     "league": "LCS"
   },
   {
-    "id": "101383793877071109",
+    "id": "d7f1f81b-cadb-4e11-9f8b-2ba5c5f3a756",
     "summonerName": "Olleh",
     "firstName": "Kim",
     "lastName": "Joo-sung",
@@ -898,6 +898,66 @@
     "country": "KR",
     "role": "support",
     "picture": "http://static.lolesports.com/players/1674833868099_IMT_TACTICAL.png",
+    "league": "LCS"
+  },
+  {
+    "id": "b8275e3c-b3dc-4a2e-9b72-ed1fbc5be3ef",
+    "summonerName": "Dhokla",
+    "firstName": "Niship",
+    "lastName": "Doshi",
+    "birthDate": "1997-07-17T00:00:00.000Z",
+    "team": "NRG",
+    "country": "IN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1687315758448_NRG_DHOKLA.png",
+    "league": "LCS"
+  },
+  {
+    "id": "91e74545-71f5-4dc3-9a08-86ab471afa4b",
+    "summonerName": "Contractz",
+    "firstName": "Juan",
+    "lastName": "Garcia",
+    "birthDate": "1999-08-25T00:00:00.000Z",
+    "team": "NRG",
+    "country": "US",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674831695096_CLG_CONTRACTZ.png",
+    "league": "LCS"
+  },
+  {
+    "id": "0e45bdfb-f485-4a76-bc8e-ecb3f7ef7a3e",
+    "summonerName": "Palafox",
+    "firstName": "Cristian",
+    "lastName": "Palafox",
+    "birthDate": "1999-07-08T00:00:00.000Z",
+    "team": "NRG",
+    "country": "US",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1687315735576_NRG_PALAFOX.png",
+    "league": "LCS"
+  },
+  {
+    "id": "a318055d-bfa1-4164-a5a4-400b3002b777",
+    "summonerName": "FBI",
+    "firstName": "Victor",
+    "lastName": "Huang",
+    "birthDate": "1999-02-11T00:00:00.000Z",
+    "team": "NRG",
+    "country": "AU",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1687315721297_NRG_FBI.png",
+    "league": "LCS"
+  },
+  {
+    "id": "f1cef125-6b65-4fc2-9afe-d6ea9d8f69e6",
+    "summonerName": "huhi",
+    "firstName": "Jae Hyun",
+    "lastName": "Choi",
+    "birthDate": "1995-04-03T00:00:00.000Z",
+    "team": "NRG",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674833447049_GG_HUHI.png",
     "league": "LCS"
   }
 ]
