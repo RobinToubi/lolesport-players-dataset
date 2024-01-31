@@ -1019,5 +1019,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/C9C_Zeyzal_2023_Split_1.png",
     "league": "LCS"
+  },
+  {
+    "id": "b555cded-d36b-484e-8da7-81655e0a441a",
+    "summonerName": "Impact",
+    "firstName": "Eon-Young",
+    "lastName": "Jeong",
+    "birthDate": "1995-03-07T00:00:00.000Z",
+    "team": "Team Liquid Honda",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1674833153993_FLY_IMPACT.png",
+    "league": "LCS"
+  },
+  {
+    "id": "8b9a21a8-d8d4-429d-989c-3159fe0810bb",
+    "summonerName": "UmTi",
+    "firstName": "Sunghyeon",
+    "lastName": "Um",
+    "birthDate": "1999-06-02T00:00:00.000Z",
+    "team": "Team Liquid Honda",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686474082024_BRO_Umti.png",
+    "league": "LCK"
+  },
+  {
+    "id": "7d886ca0-f93d-40fe-bff8-7a01df240090",
+    "summonerName": "APA",
+    "firstName": "Eain",
+    "lastName": "Stearns",
+    "birthDate": "2002-03-05T00:00:00.000Z",
+    "team": "Team Liquid Honda",
+    "country": "US",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674834011287_TL_APA.png",
+    "league": "LCS"
+  },
+  {
+    "id": "cde7468a-0404-4ed6-afed-44ab3479cae7",
+    "summonerName": "Yeon",
+    "firstName": "Sean",
+    "lastName": "Sung",
+    "birthDate": "2002-01-07T00:00:00.000Z",
+    "team": "Team Liquid Honda",
+    "country": "US",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674834187175_TL_YEON.png",
+    "league": "LCS"
+  },
+  {
+    "id": "7e229a11-92ce-4c20-9363-60b8589042b4",
+    "summonerName": "CoreJJ",
+    "firstName": "Yongin",
+    "lastName": "Jo",
+    "birthDate": "1994-06-22T00:00:00.000Z",
+    "team": "Team Liquid Honda",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674834069825_TL_COREJJ.png",
+    "league": "LCS"
   }
 ]
