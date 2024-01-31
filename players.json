@@ -1692,5 +1692,66 @@
     "role": "mid",
     "picture": "http://static.lolesports.com/players/1686475867148_T1_Faker.png",
     "league": "LCK"
+  },
+  {
+    "id": "8542a2df-621f-438e-afa9-dc868c40754e",
+    "summonerName": "Hery",
+    "firstName": "HEYONG",
+    "lastName": "WANG",
+    "birthDate": "2001-09-29T00:00:00.000Z",
+    "team": "Anyone's Legend",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1675180774755_placeholder.png",
+    "league": "LPL"
+  },
+  {
+    "id": "82ab4c4d-4769-4027-af22-627d750f45e0",
+    "summonerName": "Croco",
+    "firstName": "Dongbum",
+    "lastName": "Kim",
+    "birthDate": "2000-02-23T00:00:00.000Z",
+    "team": "Anyone's Legend",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686474266172_DRX_Croco.png",
+    "league": "LPL"
+  },
+  {
+    "id": "afd3e499-810d-4a78-89db-4a45e83d09c9",
+    "summonerName": "Shanks",
+    "firstName": "Xiao-Jun",
+    "lastName": "Cui",
+    "birthDate": "2001-03-15T00:00:00.000Z",
+    "team": "Anyone's Legend",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593136280712_we-shanks-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "94f00d08-fb01-4dfc-b679-3e6f648d7221",
+    "summonerName": "Hope",
+    "firstName": "Jie",
+    "lastName": "Wang",
+    "birthDate": "2000-09-29T00:00:00.000Z",
+    "team": "Anyone's Legend",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1593128664245_edg-hope-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "168575b7-1aa7-41c7-b7ee-e74b0aab9609",
+    "summonerName": "Kael",
+    "firstName": "Jinhong",
+    "lastName": "Kim",
+    "birthDate": "2004-02-11T00:00:00.000Z",
+    "team": "Anyone's Legend",
+    "country": "KR",
+    "teamUrl": "http://static.lolesports.com/teams/liiv-sandbox-new.png",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686475571604_LSB_Kael.png",
+    "league": "LCK"
   }
 ]
