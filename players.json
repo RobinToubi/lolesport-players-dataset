@@ -1319,5 +1319,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686475406078_KT_Legends.png",
     "league": "LCK"
+  },
+  {
+    "id": "18c8e4e8-ce75-44e0-bbd7-7ef5192c9d19",
+    "summonerName": "Doran",
+    "firstName": "Hyeonjun",
+    "lastName": "Choi",
+    "birthDate": "2000-07-22T00:00:00.000Z",
+    "team": "Hanwha Life Esports",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686474484188_GEN_Doran.png",
+    "league": "LCK"
+  },
+  {
+    "id": "4577c7dd-216b-436e-b189-490b1569e7ef",
+    "summonerName": "Peanut",
+    "firstName": "Wangho ",
+    "lastName": "Han",
+    "birthDate": "1998-02-03T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686474498860_GEN_Peanut.png",
+    "league": "LCK"
+  },
+  {
+    "id": "18c3bfc1-7d8a-4312-9f6b-045cdadc3323",
+    "summonerName": "Zeka",
+    "firstName": "Geon-Woo",
+    "lastName": "Kim",
+    "birthDate": "2002-11-28T00:00:00.000Z",
+    "team": "Hanwha Life Esports",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686474744953_HLE_Zeka.png",
+    "league": "LCK"
+  },
+  {
+    "id": "098d2c72-d077-4122-a1ab-e5a0df9a26ed",
+    "summonerName": "Viper",
+    "firstName": "Dohyeon",
+    "lastName": "Park",
+    "birthDate": "2000-10-19T00:00:00.000Z",
+    "team": "Hanwha Life Esports",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686474712522_HLE_Viper.png",
+    "league": "LCK"
+  },
+  {
+    "id": "1b3b1609-9464-4b9f-b00b-ae4ed24a55b8",
+    "summonerName": "Delight",
+    "firstName": "Hwanjung",
+    "lastName": "Yu",
+    "birthDate": "2002-09-12T00:00:00.000Z",
+    "team": "Hanwha Life Esports",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686474467758_GEN_Delight.png",
+    "league": "LCK"
   }
 ]
