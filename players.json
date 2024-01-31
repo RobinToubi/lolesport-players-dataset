@@ -2209,5 +2209,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1593135911977_vg-hang-web.png",
     "league": "LPL"
+  },
+  {
+    "id": "305724f1-09c6-4a21-9d53-c95ec5ba2d1d",
+    "summonerName": "shanji",
+    "firstName": "ZIJIAN",
+    "lastName": "DENG",
+    "birthDate": "2000-09-14T00:00:00.000Z",
+    "team": "Shenzhen NINJAS IN PYJAMAS",
+    "country": "CN",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/NIP_shanji_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "268ea750-44f9-46ef-a7ea-a9cceb15b6d6",
+    "summonerName": "Aki",
+    "firstName": "An ",
+    "lastName": "Mao",
+    "birthDate": "2000-04-09T00:00:00.000Z",
+    "team": "Shenzhen NINJAS IN PYJAMAS",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/aki-d8cu22u3.png",
+    "league": "LPL"
+  },
+  {
+    "id": "d4e85470-ffea-41d9-8b9c-d68cb29ac50c",
+    "summonerName": "Rookie",
+    "firstName": "Ui-jin",
+    "lastName": "Song",
+    "birthDate": "1997-03-11T00:00:00.000Z",
+    "team": "Shenzhen NINJAS IN PYJAMAS",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593129899216_ig-rookie-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "7b45a83d-af56-4f66-bdd5-8ae57dfcb4bd",
+    "summonerName": "Photic",
+    "firstName": "Qi-Shen ",
+    "lastName": "Ying",
+    "birthDate": "2002-10-11T00:00:00.000Z",
+    "team": "Shenzhen NINJAS IN PYJAMAS",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/photic-k1ttlyxh.png",
+    "league": "LPL"
+  },
+  {
+    "id": "9d03f796-806b-4beb-9aca-8130ec5c8bad",
+    "summonerName": "Zhuo",
+    "firstName": "Xu-Zhuo",
+    "lastName": "Wang",
+    "birthDate": "2001-02-13T00:00:00.000Z",
+    "team": "Shenzhen NINJAS IN PYJAMAS",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
   }
 ]
