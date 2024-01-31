@@ -1139,5 +1139,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686474172018_DK_Kellin.png",
     "league": "LCK"
+  },
+  {
+    "id": "9e5fc290-7548-49ec-b318-a825c0d17727",
+    "summonerName": "Rascal",
+    "firstName": "Kwanghee",
+    "lastName": "Kim",
+    "birthDate": "1997-10-16T00:00:00.000Z",
+    "team": "DRX",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686474353511_DRX_Rascal.png",
+    "league": "LCK"
+  },
+  {
+    "id": "1f5b46dc-45ee-40d9-99fb-6fc9b055a0c8",
+    "summonerName": "Sponge",
+    "firstName": "Bae",
+    "lastName": "Young-jun",
+    "birthDate": "2004-07-25T00:00:00.000Z",
+    "team": "DRX",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/DRX.C_Sponge_2023_Split_2.png",
+    "league": "LCK"
+  },
+  {
+    "id": "799f2dbd-59f2-4359-b2d8-249dd233712d",
+    "summonerName": "SeTab",
+    "firstName": "Song",
+    "lastName": "Kyeong-jin",
+    "birthDate": "2004-10-13T00:00:00.000Z",
+    "team": "DRX",
+    "country": "KR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/DRX.C_SeTab_2023_Split_2.png",
+    "league": "LCK"
+  },
+  {
+    "id": "aae90265-a454-401a-ad50-b869ea569706",
+    "summonerName": "Teddy",
+    "firstName": "Jinsung",
+    "lastName": "Park",
+    "birthDate": "1998-03-15T00:00:00.000Z",
+    "team": "DRX",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686475590041_LSB_Teddy.png",
+    "league": "LCK"
+  },
+  {
+    "id": "c8f6300b-c968-4269-a129-b8f24981723f",
+    "summonerName": "Pleata",
+    "firstName": "Son",
+    "lastName": "Min-woo",
+    "birthDate": "2003-03-28T00:00:00.000Z",
+    "team": "DRX",
+    "country": "KR",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRX.C_Pleata_2023_Split_2.png",
+    "league": "LCK"
   }
 ]
