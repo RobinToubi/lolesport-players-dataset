@@ -2269,5 +2269,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/silhouette.png",
     "league": "LPL"
+  },
+  {
+    "id": "03d2aee5-14e1-42b2-bab1-0eca52bb99d1",
+    "summonerName": "Cube",
+    "firstName": "Yi",
+    "lastName": "Dai",
+    "birthDate": "2002-07-14T00:00:00.000Z",
+    "team": "Oh My God",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1655230802313_RA_Cube_2022_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "ecb556a0-4ef6-4351-9197-74396b970fdd",
+    "summonerName": "xiaofang",
+    "firstName": "Fang",
+    "lastName": "Zhe-Yu",
+    "birthDate": "TBD",
+    "team": "Oh My God",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/OMG_xiaofang_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "30227018-765b-4f1a-852d-c28098a0dfd6",
+    "summonerName": "Angel",
+    "firstName": "Tao",
+    "lastName": "Xiang",
+    "birthDate": "2000-09-16T00:00:00.000Z",
+    "team": "Oh My God",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593134771778_sn-angel-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "67757746-cf14-4ae2-bb68-46b9c5ad4db9",
+    "summonerName": "Able",
+    "firstName": "Zhichun",
+    "lastName": "Dai",
+    "birthDate": "2000-02-24T00:00:00.000Z",
+    "team": "Oh My God",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/able-7e8oxpuh.png",
+    "league": "LPL"
+  },
+  {
+    "id": "7977e6e0-6ad3-4dff-930c-aa3614843dc3",
+    "summonerName": "ppgod",
+    "firstName": "Peng",
+    "lastName": "Guo",
+    "birthDate": "2000-03-31T00:00:00.000Z",
+    "team": "Oh My God",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1593135580022_v5-ppgod-web.png",
+    "league": "LPL"
   }
 ]
