@@ -2087,7 +2087,7 @@
     "team": "LGD GAMING",
     "country": "KR",
     "role": "top",
-    "imageUrl": "http://static.lolesports.com/players/1686475507223_LSB_Burdol.png",
+    "picture": "http://static.lolesports.com/players/1686475507223_LSB_Burdol.png",
     "league": "LCK"
   },
   {
@@ -2099,7 +2099,7 @@
     "team": "LGD GAMING",
     "country": "CN",
     "role": "jungle",
-    "imageUrl": "http://static.lolesports.com/players/1593127291575_blg-meteor-web.png",
+    "picture": "http://static.lolesports.com/players/1593127291575_blg-meteor-web.png",
     "league": "LPL"
   },
   {
@@ -2111,7 +2111,7 @@
     "team": "LGD GAMING",
     "country": "CN",
     "role": "mid",
-    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
     "league": "LPL"
   },
   {
@@ -2123,7 +2123,7 @@
     "team": "LGD GAMING",
     "country": "CN",
     "role": "bottom",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/LGD_Kepler_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/LGD_Kepler_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -2135,7 +2135,7 @@
     "team": "LGD GAMING",
     "country": "CN",
     "role": "bottom",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/LGD_Shaoye_2024_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/LGD_Shaoye_2024_Split_1.png",
     "league": "LPL"
   },
   {
@@ -2147,7 +2147,67 @@
     "team": "LGD GAMING",
     "country": "CN",
     "role": "support",
-    "imageUrl": "http://static.lolesports.com/players/1593127278481_blg-jinjiao-web.png",
+    "picture": "http://static.lolesports.com/players/1593127278481_blg-jinjiao-web.png",
     "league": "LPL"
   },
+  {
+    "id": "8c4b25a4-56fb-48cc-8bf2-9e6d49081b85",
+    "summonerName": "Zika",
+    "firstName": "Tang",
+    "lastName": " HuaYu",
+    "birthDate": "2003-07-07T00:00:00.000Z",
+    "team": "Suzhou LNG Esports",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "league": "LPL"
+  },
+  {
+    "id": "670041db-ef55-42a9-9b6e-757f7bed2b6b",
+    "summonerName": "Weiwei",
+    "firstName": "Bo-Han",
+    "lastName": "Wei",
+    "birthDate": "2000-08-14T00:00:00.000Z",
+    "team": "Suzhou LNG Esports",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1593135586553_v5-weiwei-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "9f9ec45b-0533-41b2-98ab-bb45391651eb",
+    "summonerName": "Scout",
+    "firstName": "Yechan",
+    "lastName": "Lee",
+    "birthDate": "1998-03-14T00:00:00.000Z",
+    "team": "Suzhou LNG Esports",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1632953324946_edg-scout-w21.png",
+    "league": "LPL"
+  },
+  {
+    "id": "ef0441d9-294a-4526-9bf8-67f26df44fe2",
+    "summonerName": "GALA",
+    "firstName": "Wei ",
+    "lastName": "Chen",
+    "birthDate": "2001-02-14T00:00:00.000Z",
+    "team": "Suzhou LNG Esports",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/gala-e21ymu5u.png",
+    "league": "LPL"
+  },
+  {
+    "id": "500938b8-3d3a-4644-8ae5-d139b19bbaa5",
+    "summonerName": "Hang",
+    "firstName": "Ming-Hang",
+    "lastName": "Fu",
+    "birthDate": "2003-02-05T00:00:00.000Z",
+    "team": "Suzhou LNG Esports",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1593135911977_vg-hang-web.png",
+    "league": "LPL"
+  }
 ]
