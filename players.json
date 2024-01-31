@@ -1199,5 +1199,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRX.C_Pleata_2023_Split_2.png",
     "league": "LCK"
+  },
+  {
+    "id": "020c259d-55ca-4188-b905-d1c9e67eb232",
+    "summonerName": "Clear",
+    "firstName": "Hyunmin",
+    "lastName": "Song",
+    "birthDate": "2002-11-19T00:00:00.000Z",
+    "team": "FearX",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1688543479909_LSB_CLEAR.png",
+    "league": "LCK"
+  },
+  {
+    "id": "fd620e16-6b93-46c5-a0d8-92a3b3a69b3f",
+    "summonerName": "Willer",
+    "firstName": "Junghyeun",
+    "lastName": "Kim",
+    "birthDate": "2003-04-24T00:00:00.000Z",
+    "team": "FearX",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686475606884_LSB_Willer.png",
+    "league": "LCK"
+  },
+  {
+    "id": "a83b58db-fa3e-4d5f-9491-cb0e6ea21866",
+    "summonerName": "Clozer",
+    "firstName": "Juhyeon",
+    "lastName": "Lee",
+    "birthDate": "2003-07-27T00:00:00.000Z",
+    "team": "FearX",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686475553642_LSB_Closer.png",
+    "league": "LCK"
+  },
+  {
+    "id": "ff3347b9-532a-475b-a998-bcf6a88ccff9",
+    "summonerName": "Hena",
+    "firstName": "Jeunghwan",
+    "lastName": "Park",
+    "birthDate": "1999-10-08T00:00:00.000Z",
+    "team": "FearX",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686474037746_BRO_Hena.png",
+    "league": "LCK"
+  },
+  {
+    "id": "0df6c6a8-1b9b-4db0-aa81-118dec8fdccb",
+    "summonerName": "Execute",
+    "firstName": "Lee",
+    "lastName": "Jeong-hoon",
+    "birthDate": "2000-02-22T00:00:00.000Z",
+    "team": "FearX",
+    "country": "KR",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/28/AST_JeongHoon_2023_Split_3.png",
+    "league": "LCK"
   }
 ]
