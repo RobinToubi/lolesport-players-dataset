@@ -2449,5 +2449,66 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/RNG_Ming_2024_Split_1.png",
     "league": "LPL"
+  },
+  {
+    "id": "2c5c2c64-7458-4e33-9cb7-a3b9899eaece",
+    "summonerName": "Wayward",
+    "firstName": "RENXING",
+    "lastName": "HUANG",
+    "birthDate": "2001-06-23T00:00:00.000Z",
+    "team": "Xi'an Team WE",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1663919528773_Wayward.png",
+    "league": "LPL"
+  },
+  {
+    "id": "27db6da0-71d6-407b-891f-861f12f6826d",
+    "summonerName": "Heng",
+    "firstName": "CUIHENG",
+    "lastName": "YANG",
+    "birthDate": "2001-07-16T00:00:00.000Z",
+    "team": "Xi'an Team WE",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/WE_Heng_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "d6f0c598-aa28-4471-b2f4-3ad0843285e3",
+    "summonerName": "FoFo",
+    "firstName": "Jun-Lan ",
+    "lastName": "Chu",
+    "birthDate": "1999-01-08T00:00:00.000Z",
+    "team": "Xi'an Team WE",
+    "country": "TW",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593127273680_blg-fofo-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "500506c4-803d-49cd-8c24-914f7c3473bc",
+    "summonerName": "Prince",
+    "firstName": "Chaehwan",
+    "lastName": "Lee",
+    "birthDate": "2000-04-05T00:00:00.000Z",
+    "team": "Xi'an Team WE",
+    "country": "KR",
+    "teamUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1674833197346_FLY_PRINCE.png",
+    "league": "LPL"
+  },
+  {
+    "id": "3d6b443c-122f-452b-a577-8aa58ee6c0c9",
+    "summonerName": "Iwandy",
+    "firstName": "Ding-Yang",
+    "lastName": "Liao",
+    "birthDate": "2000-08-27T00:00:00.000Z",
+    "team": "Xi'an Team WE",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1593130910221_lng-lwandy-web.png",
+    "league": "LPL"
   }
 ]
