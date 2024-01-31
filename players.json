@@ -1753,5 +1753,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686475571604_LSB_Kael.png",
     "league": "LCK"
+  },
+  {
+    "id": "12129473-7212-479e-b15e-27d5ed4d86bd",
+    "summonerName": "Bin",
+    "firstName": "Ze-Bin",
+    "lastName": "Chen",
+    "birthDate": "2002-09-28T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1593134777962_sn-bin-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "a5c8b580-9960-4afa-a85f-04ae00d790d4",
+    "summonerName": "XUN",
+    "firstName": "Li-Xun",
+    "lastName": "Peng",
+    "birthDate": "2002-02-05T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
+  },
+  {
+    "id": "5a570520-9f37-486f-9651-e4e47b25ae36",
+    "summonerName": "knight",
+    "firstName": "Ding",
+    "lastName": "Zhuo",
+    "birthDate": "2000-05-22T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1593135190649_tes-knight-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "85ae9e78-9b19-4703-9fb1-010d2e7d1980",
+    "summonerName": "Elk",
+    "firstName": "Jiahao",
+    "lastName": "Zhao",
+    "birthDate": "2001-09-29T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
+  },
+  {
+    "id": "ab524c94-0ef0-4b6b-a612-ee8ca336f5b6",
+    "summonerName": "0N",
+    "firstName": "WENJUN",
+    "lastName": "LUO",
+    "birthDate": "2003-05-12T00:00:00.000Z",
+    "team": "Bilibili Gaming Pingan Bank",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686827969101_placeholder.png",
+    "league": "LPL"
   }
 ]
