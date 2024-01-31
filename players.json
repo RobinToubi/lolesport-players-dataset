@@ -1813,5 +1813,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686827969101_placeholder.png",
     "league": "LPL"
+  },
+  {
+    "id": "54faca9b-bdef-47a2-b807-f6850638bb24",
+    "summonerName": "Ale",
+    "firstName": "Jia Le",
+    "lastName": "Hu",
+    "birthDate": "2001-07-23T00:00:00.000Z",
+    "team": "SHANGHAI EDWARD GAMING HYCAN",
+    "country": "CN",
+    "role": "top",
+    "imageUrl": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
+  },
+  {
+    "id": "3af080dc-0ec4-433c-acb1-f1561b6338e7",
+    "summonerName": "JieJie",
+    "firstName": "Li-Jie",
+    "lastName": "Zhao",
+    "birthDate": "2001-10-27T00:00:00.000Z",
+    "team": "SHANGHAI EDWARD GAMING HYCAN",
+    "country": "CN",
+    "role": "jungle",
+    "imageUrl": "http://static.lolesports.com/players/1632953262507_edg-jiejie-w21.png",
+    "league": "LPL"
+  },
+  {
+    "id": "630570c2-4973-41d8-b9a4-7b26320485e7",
+    "summonerName": "Fisher",
+    "firstName": "Jeongtae",
+    "lastName": "Lee",
+    "birthDate": "2004-07-05T00:00:00.000Z",
+    "team": "SHANGHAI EDWARD GAMING HYCAN",
+    "country": "KR",
+    "role": "mid",
+    "imageUrl": "https://static.lolesports.com/players/download.png",
+    "league": "LPL"
+  },
+  {
+    "id": "fc1eb0a5-5b65-4617-beda-efcdc9d863be",
+    "summonerName": "Leave",
+    "firstName": "HONGCHAO",
+    "lastName": "HU",
+    "birthDate": "2002-09-29T00:00:00.000Z",
+    "team": "SHANGHAI EDWARD GAMING HYCAN",
+    "country": "CN",
+    "role": "bottom",
+    "imageUrl": "http://static.lolesports.com/players/1675176150156_placeholder.png",
+    "league": "LPL"
+  },
+  {
+    "id": "6e752c1e-fc2c-4640-b4db-b0c43613281f",
+    "summonerName": "Vampire",
+    "firstName": "HONGCHAO",
+    "lastName": "HU",
+    "birthDate": "TBD",
+    "team": "SHANGHAI EDWARD GAMING HYCAN",
+    "country": "CN",
+    "role": "support",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/EDG_Vampire_2024_Split_1.png",
+    "league": "LPL"
   }
 ]
