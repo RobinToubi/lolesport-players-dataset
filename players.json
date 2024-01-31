@@ -2510,5 +2510,77 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1593130910221_lng-lwandy-web.png",
     "league": "LPL"
+  },
+  {
+    "id": "830f765e-ae3e-41c9-83aa-cab62848f16b",
+    "summonerName": "Hoya",
+    "firstName": "Yongho",
+    "lastName": "Yoon",
+    "birthDate": "2000-08-25T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1642153639500_DK_Hoya_F.png",
+    "league": "LPL"
+  },
+  {
+    "id": "f5a91313-ade8-4370-b9ac-a55fdf9d09c0",
+    "summonerName": "Beichuan",
+    "firstName": "LING",
+    "lastName": "YANG",
+    "birthDate": "2001-07-21T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/TT_Beichuan_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "c9f9d815-9fb5-4408-82dd-12dcc2b1d535",
+    "summonerName": "Ucal",
+    "firstName": "Woohyun",
+    "lastName": "Son",
+    "birthDate": "2001-01-30T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/kt-ucal.png",
+    "league": "LPL"
+  },
+  {
+    "id": "fa9ad258-d508-4a9f-881f-be23dcc6f6d2",
+    "summonerName": "1xn",
+    "firstName": "SAUNAM",
+    "lastName": "LI",
+    "birthDate": "2004-05-01T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/TT_1xn_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "786f9f7e-c47f-4a98-9cb6-83887bd917ad",
+    "summonerName": "Feather",
+    "firstName": "TIANCIFU",
+    "lastName": "WANG",
+    "birthDate": "2003-08-01T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "CN",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/TT_Feather_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "d7d65944-e818-4825-8e01-18c6cf05d904",
+    "summonerName": "QiuQiu",
+    "firstName": "Ming ",
+    "lastName": "Zhang",
+    "birthDate": "1998-04-17T00:00:00.000Z",
+    "team": "THUNDER TALK GAMING",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1593135199735_tes-qiuqiu-web.png",
+    "league": "LPL"
   }
 ]
