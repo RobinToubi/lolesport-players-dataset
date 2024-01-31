@@ -1500,5 +1500,77 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686472361656_CL_KDF_Andil.png",
     "league": "LCK"
+  },
+  {
+    "id": "105501844568585626",
+    "summonerName": "DnDn",
+    "firstName": "Geunwoo",
+    "lastName": "Park",
+    "birthDate": "2003-05-18T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686475705155_NS_DnDn.png",
+    "league": "LCK"
+  },
+  {
+    "id": "c8312a15-23c9-4146-a3a4-61426ea3fdb3",
+    "summonerName": "Sylvie",
+    "firstName": "Seungbok",
+    "lastName": "Lee",
+    "birthDate": "2002-12-04T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686475776241_NS_Sylvie.png",
+    "league": "LCK"
+  },
+  {
+    "id": "9a07474c-1463-4682-ba5b-0a33e64046c2",
+    "summonerName": "FIESTA",
+    "firstName": "Hyeonseo",
+    "lastName": "Ahn",
+    "birthDate": "2003-05-04T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686475720275_NS_FIESTA.png",
+    "league": "LCK"
+  },
+  {
+    "id": "1b99097c-0660-48cc-84ed-ad527aff2423",
+    "summonerName": "Callme",
+    "firstName": "Oh",
+    "lastName": "Ji-hoon",
+    "birthDate": "2003-05-30T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/NS.EA_Callme_2023_Split_2.png",
+    "league": "LCK"
+  },
+  {
+    "id": "0858be75-7680-4d6d-ab8f-d2adfc25363e",
+    "summonerName": "Jiwoo",
+    "firstName": "Jiwoo",
+    "lastName": "Jung",
+    "birthDate": "2004-03-20T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686473760908_CL_NS_Jiwoo.png",
+    "league": "LCK"
+  },
+  {
+    "id": "9c2cf7dd-fa75-411e-9960-daef96fb3c3a",
+    "summonerName": "Peter",
+    "firstName": "Yoon su",
+    "lastName": "Jeong",
+    "birthDate": "2003-04-28T00:00:00.000Z",
+    "team": "NongShim REDFORCE",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686475735492_NS_Peter.png",
+    "league": "LCK"
   }
 ]
