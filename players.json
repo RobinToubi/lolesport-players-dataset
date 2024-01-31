@@ -741,7 +741,7 @@
     "team": "Dignitas",
     "country": "US",
     "role": "jungle",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/DIG.A_eXyu_2022_Split_2.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/DIG.A_eXyu_2022_Split_2.png",
     "league": "LCS"
   },
   {
@@ -765,7 +765,7 @@
     "team": "Dignitas",
     "country": "US",
     "role": "bottom",
-    "imageUrl": "http://static.lolesports.com/players/1674832263376_DIG_TOMO.png",
+    "picture": "http://static.lolesports.com/players/1674832263376_DIG_TOMO.png",
     "league": "LCS"
   },
   {
@@ -777,7 +777,67 @@
     "team": "Dignitas",
     "country": "AU",
     "role": "support",
-    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/C9_Isles_2022_Split_1.png",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/C9_Isles_2022_Split_1.png",
     "league": "LCS"
-  }
+  },
+  {
+    "id": "7fcdcbdd-ed45-486f-ad4c-0284165219e0",
+    "summonerName": "Bwipo",
+    "firstName": "Gabriel",
+    "lastName": "Rau",
+    "birthDate": "1998-12-24T00:00:00.000Z",
+    "team": "FlyQuest",
+    "country": "BE",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1655451979538_BWIPO.png",
+    "league": "LCS"
+  },
+  {
+    "id": "92928071-32f0-4fd8-9f99-212674390c44",
+    "summonerName": "Inspired",
+    "firstName": "Kacper",
+    "lastName": "Sloma",
+    "birthDate": "2002-01-24T00:00:00.000Z",
+    "team": "FlyQuest",
+    "country": "PL",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674832434056_EG_INSPIRED.png",
+    "league": "LCS"
+  },
+  {
+    "id": "5289cfb7-ddf4-4dcb-a84f-5188e67bd2b0",
+    "summonerName": "Jensen",
+    "firstName": "Nicolaj",
+    "lastName": "Jensen",
+    "birthDate": "1995-01-01T00:00:00.000Z",
+    "team": "FlyQuest",
+    "country": "DK",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674832180299_DIG_JENSEN.png",
+    "league": "LCS"
+  },
+  {
+    "id": "36264e7f-287e-408b-aaee-4481787b08b6",
+    "summonerName": "Massu",
+    "firstName": "Fahad",
+    "lastName": "Abdulmalek",
+    "birthDate": "2004-11-28T00:00:00.000Z",
+    "team": "FlyQuest",
+    "country": "CA",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/FLYC_Massu_2023_Split_1.png",
+    "league": "LCS"
+  },
+  {
+    "id": "6de5e781-3ecc-4128-819e-c2897a061e9c",
+    "summonerName": "Busio",
+    "firstName": "Alan",
+    "lastName": "Cwalina",
+    "birthDate": "2003-10-22T00:00:00.000Z",
+    "team": "FlyQuest",
+    "country": "US",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1674830940464_100_BUSIO.png",
+    "league": "LCS"
+  },
 ]
