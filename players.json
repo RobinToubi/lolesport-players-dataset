@@ -2077,5 +2077,77 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1593136264187_we-missing-web.png",
     "league": "LPL"
-  }
+  },
+  {
+    "id": "e48d4278-64b0-42d2-9a9d-1527a9359d21",
+    "summonerName": "Burdol",
+    "firstName": "Taeyoon",
+    "lastName": "Noh",
+    "birthDate": "2003-12-25T00:00:00.000Z",
+    "team": "LGD GAMING",
+    "country": "KR",
+    "role": "top",
+    "imageUrl": "http://static.lolesports.com/players/1686475507223_LSB_Burdol.png",
+    "league": "LCK"
+  },
+  {
+    "id": "b5626d18-8279-4ae1-9609-7f12d65c5b98",
+    "summonerName": "Meteor",
+    "firstName": "Guohao ",
+    "lastName": "Zeng",
+    "birthDate": "1999-12-26T00:00:00.000Z",
+    "team": "LGD GAMING",
+    "country": "CN",
+    "role": "jungle",
+    "imageUrl": "http://static.lolesports.com/players/1593127291575_blg-meteor-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "45f8289d-3c7f-41ab-9848-b37ad2251838",
+    "summonerName": "haichao",
+    "firstName": "ZHANG",
+    "lastName": " HAI CHAO",
+    "birthDate": "2003-04-17T00:00:00.000Z",
+    "team": "LGD GAMING",
+    "country": "CN",
+    "role": "mid",
+    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "league": "LPL"
+  },
+  {
+    "id": "55e2b5d8-fea1-481a-9640-6a170e5296a8",
+    "summonerName": "Kepler",
+    "firstName": "Zou",
+    "lastName": "Jia-Le",
+    "birthDate": "2002-09-28T00:00:00.000Z",
+    "team": "LGD GAMING",
+    "country": "CN",
+    "role": "bottom",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/LGD_Kepler_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "e22d0849-b4f7-4163-8ad9-bfcf2383903d",
+    "summonerName": "Shaoye",
+    "firstName": "Qiu",
+    "lastName": "Guo-Bin",
+    "birthDate": "TBD",
+    "team": "LGD GAMING",
+    "country": "CN",
+    "role": "bottom",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/LGD_Shaoye_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "35f78c54-81cf-4de9-ab99-e548a340c4f0",
+    "summonerName": "Jinjiao",
+    "firstName": "Jinshan ",
+    "lastName": "Xie",
+    "birthDate": "1998-04-15T00:00:00.000Z",
+    "team": "LGD GAMING",
+    "country": "CN",
+    "role": "support",
+    "imageUrl": "http://static.lolesports.com/players/1593127278481_blg-jinjiao-web.png",
+    "league": "LPL"
+  },
 ]
