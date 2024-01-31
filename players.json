@@ -1439,5 +1439,66 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686474252446_DRX_BeryL.png",
     "league": "LCK"
+  },
+  {
+    "id": "4f99dcf1-98f3-4dc9-ad60-280e5e370068",
+    "summonerName": "DuDu",
+    "firstName": "Dongju",
+    "lastName": "Lee",
+    "birthDate": "2001-03-08T00:00:00.000Z",
+    "team": "Kwangdong Freecs",
+    "country": "KR",
+    "teamUrl": "http://static.lolesports.com/teams/1641186009897_KDF_KR_logo.png",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686474855333_KDF_DuDu.png",
+    "league": "LCK"
+  },
+  {
+    "id": "0b6bd46e-7099-4d73-a608-072e163c8156",
+    "summonerName": "Cuzz",
+    "firstName": "Uchan",
+    "lastName": "Mun",
+    "birthDate": "1999-10-30T00:00:00.000Z",
+    "team": "Kwangdong Freecs",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686475327736_KT_Cuzz.png",
+    "league": "LCK"
+  },
+  {
+    "id": "4491a3da-911e-4ac4-9d5d-fdd0e1c4af64",
+    "summonerName": "BuLLDoG",
+    "firstName": "Taeyoung",
+    "lastName": "Lee",
+    "birthDate": "2005-04-15T00:00:00.000Z",
+    "team": "Kwangdong Freecs",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686474836477_KDF_BuLLDoG.png",
+    "league": "LCK"
+  },
+  {
+    "id": "4bf88f91-6088-40c5-a823-8fe03e9de7ba",
+    "summonerName": "Bull",
+    "firstName": "Song",
+    "lastName": "Seon-gyu",
+    "birthDate": "2003-05-16T00:00:00.000Z",
+    "team": "Kwangdong Freecs",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/KDF.C_Bull_2023_Split_2.png",
+    "league": "LCK"
+  },
+  {
+    "id": "1faee655-e865-4a1b-9819-81a29a24abf4",
+    "summonerName": "Andil",
+    "firstName": "Gwan-bin",
+    "lastName": "Mun",
+    "birthDate": "2002-10-05T00:00:00.000Z",
+    "team": "Kwangdong Freecs",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686472361656_CL_KDF_Andil.png",
+    "league": "LCK"
   }
 ]
