@@ -23,5 +23,6 @@ A player is represented by the object below :
 
 There is some data that can be stored to provide more informations about players :
 - Number of international trophies
-- Lasts' player teams
+- Player's team history
+- Leaguepedia's link
 - TBD ...
