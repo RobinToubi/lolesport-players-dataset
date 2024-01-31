@@ -2329,5 +2329,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1593135580022_v5-ppgod-web.png",
     "league": "LPL"
+  },
+  {
+    "id": "d75b4d37-aa3d-4115-80d4-be22202a5d27",
+    "summonerName": "Xiaoxu",
+    "firstName": "XINZU",
+    "lastName": "XU",
+    "birthDate": "2003-09-11T00:00:00.000Z",
+    "team": "RARE ATOM",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1675178108438_placeholder.png",
+    "league": "LPL"
+  },
+  {
+    "id": "9d14214b-397e-4270-b8ba-a0277e6329e8",
+    "summonerName": "naiyou",
+    "firstName": "Yang",
+    "lastName": "Zi-Jian",
+    "birthDate": "TBD",
+    "team": "RARE ATOM",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/RA_naiyou_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "50fdc167-a019-4f5f-8e2a-561f49e704e4",
+    "summonerName": "VicLa",
+    "firstName": "Deakwang",
+    "lastName": "Lee",
+    "birthDate": "2003-11-27T00:00:00.000Z",
+    "team": "RARE ATOM",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1674833265283_FLY_VICLA.png",
+    "league": "LPL"
+  },
+  {
+    "id": "c82f231f-2dfe-4aed-afc9-53251bf10245",
+    "summonerName": "Assum",
+    "firstName": "Wei",
+    "lastName": "Zou",
+    "birthDate": "2003-11-30T00:00:00.000Z",
+    "team": "RARE ATOM",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
+  },
+  {
+    "id": "16b6096b-2cfe-4438-9684-6878bad3109d",
+    "summonerName": "Zorah",
+    "firstName": "CHONGJIANG",
+    "lastName": "YANG",
+    "birthDate": "2003-05-08T00:00:00.000Z",
+    "team": "RARE ATOM",
+    "country": "CN",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/RA_Zorah_2024_Split_1.png",
+    "league": "LPL"
   }
 ]
