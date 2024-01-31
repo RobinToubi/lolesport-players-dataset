@@ -1873,5 +1873,65 @@
     "role": "support",
     "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/03/EDG_Vampire_2024_Split_1.png",
     "league": "LPL"
+  },
+  {
+    "id": "be0ed0dd-87a2-442b-9238-bd9fa1960de4",
+    "summonerName": "xiaolaohu",
+    "firstName": "XIAOHU",
+    "lastName": "PING",
+    "birthDate": "2002-08-22T00:00:00.000Z",
+    "team": "FunPlus Phoenix",
+    "country": "CN",
+    "role": "top",
+    "imageUrl": "http://static.lolesports.com/players/1632954048957_fpx-xiaolauhu-w21.png",
+    "league": "LPL"
+  },
+  {
+    "id": "febcec04-c37f-4001-a4f6-d6370dae0e30",
+    "summonerName": "milkyway",
+    "firstName": "Cai",
+    "lastName": "Zi-Jun",
+    "birthDate": "TBD",
+    "team": "FunPlus Phoenix",
+    "country": "CN",
+    "role": "jungle",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/FPX_milkyway_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "516773af-49d8-40bb-b91b-13e8f82d81af",
+    "summonerName": "Care",
+    "firstName": "yang",
+    "lastName": "jie",
+    "birthDate": "2004-02-28T00:00:00.000Z",
+    "team": "FunPlus Phoenix",
+    "country": "CN",
+    "role": "mid",
+    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "league": "LPL"
+  },
+  {
+    "id": "9221a68e-b81d-40fd-b8c4-b10f0f1834f5",
+    "summonerName": "Deokdam",
+    "firstName": "Seo",
+    "lastName": "Dae-gil",
+    "birthDate": "2000-02-25T00:00:00.000Z",
+    "team": "FunPlus Phoenix",
+    "country": "KR",
+    "role": "bottom",
+    "imageUrl": "http://static.lolesports.com/players/1643734200321_silhouette_transparent.png",
+    "league": "LPL"
+  },
+  {
+    "id": "8d79313c-d489-4523-9ce4-177102e45053",
+    "summonerName": "Life",
+    "firstName": "Jeongmin",
+    "lastName": "Kim",
+    "birthDate": "2000-07-07T00:00:00.000Z",
+    "team": "FunPlus Phoenix",
+    "country": "KR",
+    "role": "support",
+    "imageUrl": "http://static.lolesports.com/players/1686474649583_HLE_Life.png",
+    "league": "LCK"
   }
 ]
