@@ -2642,5 +2642,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1632953311883_edg-meiko-w21.png",
     "league": "LPL"
+  },
+  {
+    "id": "affc73e9-4333-4c6d-90f5-9c4c16b35caa",
+    "summonerName": "zs",
+    "firstName": "Shuai",
+    "lastName": "Zhang",
+    "birthDate": "2002-03-19T00:00:00.000Z",
+    "team": "Ultra Prime",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/silhouette.png",
+    "league": "LPL"
+  },
+  {
+    "id": "a9ac9b0e-b7b8-45bd-91d8-f29b06b61425",
+    "summonerName": "H4cker",
+    "firstName": "Zhi-Hao ",
+    "lastName": "Yang",
+    "birthDate": "1999-01-15T00:00:00.000Z",
+    "team": "Ultra Prime",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1593131720163_omg-h4cker-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "c45a056e-1ed1-4a2a-ada3-a8b2e0daaae8",
+    "summonerName": "Yuekai",
+    "firstName": "Yue-Kai",
+    "lastName": "Zhang",
+    "birthDate": "2002-07-27T00:00:00.000Z",
+    "team": "Ultra Prime",
+    "country": "CN",
+    "role": "mid",
+    "picture": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/yuekai-97zqsvcx.png",
+    "league": "LPL"
+  },
+  {
+    "id": "65937d9f-2d5e-4865-bb6e-32c7d30e67cb",
+    "summonerName": "Doggo",
+    "firstName": "Tzu-Chuan",
+    "lastName": "Chiu",
+    "birthDate": "2003-01-14T00:00:00.000Z",
+    "team": "Ultra Prime",
+    "country": "TW",
+    "role": "bottom",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/UP_Doggo_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "44fce1f4-9600-412d-b06e-ddc101c665ec",
+    "summonerName": "Jwei",
+    "firstName": "Sun",
+    "lastName": "Jun-Wei",
+    "birthDate": "2003-01-05T00:00:00.000Z",
+    "team": "Ultra Prime",
+    "country": "CN",
+    "role": "support",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/df/UP_Jwei_2024_Split_1.png",
+    "league": "LPL"
   }
 ]
