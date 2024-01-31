@@ -2582,5 +2582,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1593135199735_tes-qiuqiu-web.png",
     "league": "LPL"
+  },
+  {
+    "id": "d6285c2a-85c6-44e8-8f36-fc85ad20123b",
+    "summonerName": "369",
+    "firstName": "Jiahao",
+    "lastName": "Bai",
+    "birthDate": "2001-07-12T00:00:00.000Z",
+    "team": "TOP ESPORT",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1593135176688_TES_369_WEB.png",
+    "league": "LPL"
+  },
+  {
+    "id": "a947b6d3-424e-4e96-89c1-adc1af158a80",
+    "summonerName": "Tian",
+    "firstName": "Tian-Liang",
+    "lastName": "Gao",
+    "birthDate": "2000-07-24T00:00:00.000Z",
+    "team": "TOP ESPORTS",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1632954033327_fpx-tian-w21.png",
+    "league": "LPL"
+  },
+  {
+    "id": "d2519623-2030-4cc6-8c63-776383c92664",
+    "summonerName": "Creme",
+    "firstName": "Jian",
+    "lastName": "Lin",
+    "birthDate": "2003-12-14T00:00:00.000Z",
+    "team": "TOP ESPORTS",
+    "country": "CN",
+    "role": "mid",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dc/TES_Creme_2024_Split_1.png",
+    "league": "LPL"
+  },
+  {
+    "id": "c38e7f57-7688-4f90-b013-c93fb4e430f5",
+    "summonerName": "JackeyLove",
+    "firstName": "Wen Bo",
+    "lastName": "Yu",
+    "birthDate": "2000-11-18T00:00:00.000Z",
+    "team": "TOP ESPORTS",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1593135183257_tes-jackeylove-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "3d92efeb-c276-49ed-b41d-00caa723a7fc",
+    "summonerName": "Meiko",
+    "firstName": "Ye",
+    "lastName": "Tian",
+    "birthDate": "1998-06-06T00:00:00.000Z",
+    "team": "TOP ESPORTS",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1632953311883_edg-meiko-w21.png",
+    "league": "LPL"
   }
 ]
