@@ -719,5 +719,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/EG_Eyla_2023_Split_2.png",
     "league": "LCS"
+  },
+  {
+    "id": "1432dd17-b3d2-43b2-9101-656d58832773",
+    "summonerName": "Rich",
+    "firstName": "Jaewon",
+    "lastName": "Lee",
+    "birthDate": "1998-02-16T00:00:00.000Z",
+    "team": "Dignitas",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1687315797105_DIG_RICH.png",
+    "league": "LCS"
+  },
+  {
+    "id": "6c76a491-cf98-47e8-b17d-e2e1ea1f48fc",
+    "summonerName": "eXyu",
+    "firstName": "Lawrence",
+    "lastName": "Lin Xu",
+    "birthDate": "2001-12-14T00:00:00.000Z",
+    "team": "Dignitas",
+    "country": "US",
+    "role": "jungle",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/DIG.A_eXyu_2022_Split_2.png",
+    "league": "LCS"
+  },
+  {
+    "id": "32f2ef4a-7158-46a4-af92-5db9072acf1e",
+    "summonerName": "Dove",
+    "firstName": "Jaeyeon",
+    "lastName": "Kim",
+    "birthDate": "1998-07-25T00:00:00.000Z",
+    "team": "Dignitas",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1655457052010_LSB_Dove_784x621.png",
+    "league": "LCS"
+  },
+  {
+    "id": "2e7844ca-3e96-4f3e-a3b6-fa85db6a1cd6",
+    "summonerName": "Tomo",
+    "firstName": "Frank",
+    "lastName": "Lam",
+    "birthDate": "2001-01-19T00:00:00.000Z",
+    "team": "Dignitas",
+    "country": "US",
+    "role": "bottom",
+    "imageUrl": "http://static.lolesports.com/players/1674832263376_DIG_TOMO.png",
+    "league": "LCS"
+  },
+  {
+    "id": "53422ecf-a9a5-48b7-9db2-6936d55803eb",
+    "summonerName": "Isles",
+    "firstName": "Jonah",
+    "lastName": "Rosario",
+    "birthDate": "2001-03-07T00:00:00.000Z",
+    "team": "Dignitas",
+    "country": "AU",
+    "role": "support",
+    "imageUrl": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/C9_Isles_2022_Split_1.png",
+    "league": "LCS"
   }
 ]
