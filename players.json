@@ -2389,5 +2389,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/RA_Zorah_2024_Split_1.png",
     "league": "LPL"
+  },
+  {
+    "id": "752f077d-a677-4088-b90e-1a898086da41",
+    "summonerName": "Breathe",
+    "firstName": "Chen",
+    "lastName": "Chen",
+    "birthDate": "2001-02-19T00:00:00.000Z",
+    "team": "Royal Never Give Up",
+    "country": "CN",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1663919470640_Breathe.png",
+    "league": "LPL"
+  },
+  {
+    "id": "93c7f2e4-368c-4bb8-a2d3-2be138cf8b26",
+    "summonerName": "Wei",
+    "firstName": "Yang-Wei ",
+    "lastName": "Yan",
+    "birthDate": "2002-11-09T00:00:00.000Z",
+    "team": "Royal Never Give Up",
+    "country": "CN",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1593129260814_es-wei-web.png",
+    "league": "LPL"
+  },
+  {
+    "id": "5db4d5e9-fb02-4393-a0b0-2f6a7d697b47",
+    "summonerName": "Tangyuan",
+    "firstName": "YUHONG",
+    "lastName": "LIN",
+    "birthDate": "2004-01-30T00:00:00.000Z",
+    "team": "Royal Never Give Up",
+    "country": "CN",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1675179901130_placeholder.png",
+    "league": "LPL"
+  },
+  {
+    "id": "37faa9b1-ef18-4a99-912d-9ac0bd64e007",
+    "summonerName": "Lwx",
+    "firstName": "Weixiang",
+    "lastName": "Lin",
+    "birthDate": "1998-10-24T00:00:00.000Z",
+    "team": "Royal Never Give Up",
+    "country": "CN",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1632953984643_fpx-lwx-w21.png",
+    "league": "LPL"
+  },
+  {
+    "id": "62c53333-7e33-4146-811b-e0f5d815f95f",
+    "summonerName": "Ming",
+    "firstName": "Shi",
+    "lastName": "Sen-Ming",
+    "birthDate": "1998-12-22T00:00:00.000Z",
+    "team": "Royal Never Give Up",
+    "country": "CN",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1632953984643_fpx-lwx-w21.png",
+    "league": "LPL"
   }
 ]
