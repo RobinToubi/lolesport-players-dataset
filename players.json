@@ -1079,5 +1079,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1674834069825_TL_COREJJ.png",
     "league": "LCS"
+  },
+  {
+    "id": "1da9f675-7400-45b6-8beb-6226f2e14669",
+    "summonerName": "Kingen",
+    "firstName": "Sunghoon ",
+    "lastName": "Hwang",
+    "birthDate": "2000-03-11T00:00:00.000Z",
+    "team": "Dplus KIA",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686474606573_HLE_Kingen.png",
+    "league": "LCK"
+  },
+  {
+    "id": "c7bcf32c-66e2-4c76-8b01-8dbf5cca68e7",
+    "summonerName": "Lucid",
+    "firstName": "Choi",
+    "lastName": "Yong-hyeok",
+    "birthDate": "2005-01-28T00:00:00.000Z",
+    "team": "Dplus Kia",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/DK.C_Lucid_2023_Split_2.png",
+    "league": "LCK"
+  },
+  {
+    "id": "86b6e01b-446e-4bde-9476-08cf4a9ab134",
+    "summonerName": "ShowMaker",
+    "firstName": "Su",
+    "lastName": "Heo",
+    "birthDate": "2000-07-22T00:00:00.000Z",
+    "team": "Dplus Kia",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686474187186_DK_Showmaker.png",
+    "league": "LCK"
+  },
+  {
+    "id": "ab47342e-97ee-4f51-9cec-3e716caa3216",
+    "summonerName": "Aiming",
+    "firstName": "Haram",
+    "lastName": "Kim",
+    "birthDate": "2000-07-20T00:00:00.000Z",
+    "team": "Dplus Kia",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686475276290_KT_Aiming.png",
+    "league": "LCK"
+  },
+  {
+    "id": "1a5e526a-87c5-41bf-8531-4b57cf1f710f",
+    "summonerName": "Kellin",
+    "firstName": "Hyeonggyu",
+    "lastName": "Kim",
+    "birthDate": "2001-02-01T00:00:00.000Z",
+    "team": "Dplus Kia",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686474172018_DK_Kellin.png",
+    "league": "LCK"
   }
 ]
