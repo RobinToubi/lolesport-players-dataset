@@ -1632,5 +1632,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686474015023_BRO_Effort.png",
     "league": "LCK"
+  },
+  {
+    "id": "4254248c-a914-4013-b723-8b44807efc17",
+    "summonerName": "Oner",
+    "firstName": "HYUNJUN",
+    "lastName": "MUN",
+    "birthDate": "2002-12-24T00:00:00.000Z",
+    "team": "T1",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686475915790_T1_Oner.png",
+    "league": "LCK"
+  },
+  {
+    "id": "9cb30209-f853-4a0c-8796-f76642fde6cb",
+    "summonerName": "Keria",
+    "firstName": "Minseok",
+    "lastName": "Ryu",
+    "birthDate": "2002-10-14T00:00:00.000Z",
+    "team": "T1",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686475900513_T1_Keria.png",
+    "league": "LCK"
+  },
+  {
+    "id": "ab3d9f4e-324a-4812-8408-6e3eab4367f9",
+    "summonerName": "Gumayusi",
+    "firstName": "Minhyung",
+    "lastName": "Lee",
+    "birthDate": "2002-02-06T00:00:00.000Z",
+    "team": "T1",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686475886901_T1_Gumayusi.png",
+    "league": "LCK"
+  },
+  {
+    "id": "9be5df6b-420d-4941-a877-40deb55f4245",
+    "summonerName": "Zeus",
+    "firstName": "Wooje",
+    "lastName": "Choi",
+    "birthDate": "2004-01-31T00:00:00.000Z",
+    "team": "T1",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686475932420_T1_Zeus.png",
+    "league": "LCK"
+  },
+  {
+    "id": "b51dc968-b401-4edc-b271-272df5644e8b",
+    "summonerName": "Faker",
+    "firstName": "Sanghyeok",
+    "lastName": "Lee",
+    "birthDate": "1996-05-07T00:00:00.000Z",
+    "team": "T1",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686475867148_T1_Faker.png",
+    "league": "LCK"
   }
 ]
