@@ -1259,5 +1259,65 @@
     "role": "support",
     "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/28/AST_JeongHoon_2023_Split_3.png",
     "league": "LCK"
+  },
+  {
+    "id": "c79365f4-e274-4ba4-8297-e7b12511e387",
+    "summonerName": "Kiin",
+    "firstName": "Kiin",
+    "lastName": "Kim",
+    "birthDate": "1999-05-28T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "top",
+    "picture": "http://static.lolesports.com/players/1686475342107_KT_Kiin.png",
+    "league": "LCK"
+  },
+  {
+    "id": "e7615d6b-28cd-4ad5-91f7-1c3684bb9f21",
+    "summonerName": "Canyon",
+    "firstName": "Gunbu",
+    "lastName": "Kim",
+    "birthDate": "2001-06-18T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1686474146034_DK_Canyon.png",
+    "league": "LCK"
+  },
+  {
+    "id": "182103c1-ebd8-41f4-9552-4bb2c453e12a",
+    "summonerName": "Chovy",
+    "firstName": "Jihun",
+    "lastName": "Jung",
+    "birthDate": "2001-03-03T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686474439543_GEN_Chovy.png",
+    "league": "LCK"
+  },
+  {
+    "id": "c6612c99-2d4b-4e38-99f9-a40dea82ca40",
+    "summonerName": "Peyz",
+    "firstName": "SOOHWAN",
+    "lastName": "Kim",
+    "birthDate": "2005-12-05T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686474512410_GEN_Peyz.png",
+    "league": "LCK"
+  },
+  {
+    "id": "01f9c99a-553c-42de-9272-ea4d48278137",
+    "summonerName": "Lehends",
+    "firstName": "Siu",
+    "lastName": "Son",
+    "birthDate": "1998-12-24T00:00:00.000Z",
+    "team": "Gen.G",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686475406078_KT_Legends.png",
+    "league": "LCK"
   }
 ]
