@@ -1379,5 +1379,65 @@
     "role": "support",
     "picture": "http://static.lolesports.com/players/1686474467758_GEN_Delight.png",
     "league": "LCK"
+  },
+  {
+    "id": "fa18980d-0cba-45fb-a9d7-ac022548fdeb",
+    "summonerName": "PerfecT",
+    "firstName": "Lee",
+    "lastName": "Seung-min",
+    "birthDate": "2004-05-17T00:00:00.000Z",
+    "team": "kt Rolster",
+    "country": "KR",
+    "role": "top",
+    "picture": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/KT_PerfecT_2023_WC.png",
+    "league": "LCK"
+  },
+  {
+    "id": "9142d1a1-f195-4cb2-a821-65a79508635f",
+    "summonerName": "Pyosik",
+    "firstName": "Changhyeon",
+    "lastName": "Hong",
+    "birthDate": "2000-03-12T00:00:00.000Z",
+    "team": "kt Rolster",
+    "country": "KR",
+    "role": "jungle",
+    "picture": "http://static.lolesports.com/players/1674834144518_TL_PYOSIK.png",
+    "league": "LCK"
+  },
+  {
+    "id": "c5c7d71a-9492-400f-b910-84690fd0b261",
+    "summonerName": "Bdd",
+    "firstName": " Bo seong",
+    "lastName": "Gwak",
+    "birthDate": "1999-03-01T00:00:00.000Z",
+    "team": "kt Rolster",
+    "country": "KR",
+    "role": "mid",
+    "picture": "http://static.lolesports.com/players/1686475302463_KT_BDD.png",
+    "league": "LCK"
+  },
+  {
+    "id": "ffcd9cf7-a851-4542-9d86-75bbc5529d9b",
+    "summonerName": "Deft",
+    "firstName": "Hyeokgyu",
+    "lastName": "Kim",
+    "birthDate": "1996-10-23T00:00:00.000Z",
+    "team": "kt Rolster",
+    "country": "KR",
+    "role": "bottom",
+    "picture": "http://static.lolesports.com/players/1686474159438_DK_Deft.png",
+    "league": "LCK"
+  },
+  {
+    "id": "03b538a1-410b-4a9a-aa5d-56ee6cd75dc2",
+    "summonerName": "BeryL",
+    "firstName": "Geonhee",
+    "lastName": "Jo",
+    "birthDate": "1997-04-01T00:00:00.000Z",
+    "team": "kt Rolster",
+    "country": "KR",
+    "role": "support",
+    "picture": "http://static.lolesports.com/players/1686474252446_DRX_BeryL.png",
+    "league": "LCK"
   }
 ]
